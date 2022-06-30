@@ -1,4 +1,4 @@
-# Permanente-2.a-
+# Permanente-2.c-
 Convertir un Número Entero a un Numeral Romano
 Primero definimos una función que será llamada conversion_entero_romano(entero):
 Luego elaboramos dos listas
